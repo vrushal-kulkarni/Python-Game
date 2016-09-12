@@ -1,0 +1,4 @@
+1.Firstly install python-2.7.2 setup file.
+2.Then install pygame-1.9.2 library.
+3.After installing this two setup files,open "DEADLY SNAKE" from final folder.
+$.And enjoy playing...
